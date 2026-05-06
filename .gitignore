@@ -1,0 +1,4 @@
+.DS_Store
+*.rds
+02_datos_procesados/
+01_datos_brutos/
